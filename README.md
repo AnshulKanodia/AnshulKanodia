@@ -10,7 +10,7 @@
 🚀 &nbsp;I build system automation tools and machine learning pipelines, and I am actively seeking software engineering internships.\
 💬 &nbsp;Feel free to reach out to me for collaborations, open-source contributions, or just some interesting discussions. \
 ✉️ &nbsp;You can shoot me an email at [anshulkanodia3560@gmail.com](mailto:anshulkanodia3560@gmail.com)! I'll try to respond as soon as I can.\
-📄 &nbsp;Please check out my [Personal Portfolio](https://anshulkanodia.vercel.app/) and [Resume](https://anshulkanodia.vercel.app/resume) for more details.
+📄 &nbsp;Please check out my [Personal Portfolio](https://anshulkanodia.me/) and [Resume](https://anshulkanodia.me/resume) for more details.
 
 <img alt="Night Coding" src="./assets/Night-Coding.gif" align="right"/>
 
@@ -39,7 +39,7 @@
 
 * 🛡️ &nbsp;**[Cyber Shield](https://github.com/AnshulKanodia/Cyber-Shield)**: An advanced NLP system that analyzes social media comments for context-specific toxic behaviors. Built a robust pipeline utilizing synthetic data generation techniques (addressing class imbalance) and fine-tuned Transformer architectures to understand context and syntax instead of just flagging keywords.
 * 🎙️ &nbsp;**[Desktop Voice Assistant](https://github.com/AnshulKanodia/Desktop-Voice-Assistant)**: Designed and coded a desktop voice assistant in Python configured for Windows environments. It streamlines user productivity workflows by performing rapid searches, orchestrating system settings adjustments, initiating programs, and automating redundant operations.
-* 🌐 &nbsp;**[Personal Developer Portfolio](https://anshulkanodia.vercel.app/)**: A fully responsive, modern web portfolio built with clean UI principles and deployed via Vercel.
+* 🌐 &nbsp;**[Personal Developer Portfolio](https://anshulkanodia.me/)**: A fully responsive, modern web portfolio built with clean UI principles and deployed via Vercel.
 
 ### 📜 &nbsp;Key Certifications
 
@@ -66,7 +66,7 @@
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
-<a href="https://anshulkanodia.vercel.app/"><img src="https://img.shields.io/badge/-Portfolio-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
+<a href="https://anshulkanodia.me/"><img src="https://img.shields.io/badge/-Portfolio-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/anshulkanodia/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:anshulkanodia3560@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://github.com/AnshulKanodia"><img src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=GitHub&logoColor=white"/></a>
