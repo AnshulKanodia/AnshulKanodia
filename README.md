@@ -106,3 +106,4 @@ AnshulKanodia/
 ## 📄 License
 
 This repository is licensed under the [MIT License](LICENSE) — see the [LICENSE](LICENSE) file for details.
+<!-- yolo badge activation -->
