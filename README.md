@@ -26,7 +26,6 @@ I am a software engineer passionate about building high-availability backend mic
 
 - 🔭 **Active Focus**: Multi-agent orchestration, high-concurrency backend architectures, distributed transaction ledgers, and explainable Machine Learning systems.
 - 🎓 **Education**: Pursuing B.Tech in CSE at **VIT Bhopal University** (2024–2028).
-- 🏆 **Credentials**: Certified in Cloud Computing & Distributed Systems (NPTEL), AI Agents Intensive (Google/Kaggle), and MongoDB Associate Database Administrator (FACE Prep).
 - ⚡ **Competitive Problem Solving**: Active competitive programmer on **[Codeforces](https://codeforces.com/profile/anshulkanodia)** with 70+ solutions in Java covering core DSA and constructive algorithms.
 - 💬 **Collaborations**: Open to software engineering internships, backend architecture discussions, and open-source contributions.
 
@@ -75,21 +74,6 @@ I am a software engineer passionate about building high-availability backend mic
 - **Applied Machine Learning in Python** — University of Michigan / Coursera (Nov 2025)
 - **Programming in Java** — NPTEL (Elite Certification)
 - *All 13 verified credentials viewable in [Images/certificates](https://github.com/AnshulKanodia/Images/tree/main/certificates).*
-
----
-
-## 📂 File Structure
-
-```text
-AnshulKanodia/
-├── .gitignore                    # System and OS file exclusions
-├── LICENSE                       # MIT Open Source License
-├── README.md                     # GitHub Profile README
-└── assets/                       # Profile animations and visual media
-    ├── Hand Wave.gif             # Greeting animation
-    ├── Night-Coding.gif          # Developer activity animation
-    └── badge_tracker.txt         # Badge telemetry notes
-```
 
 ---
 
