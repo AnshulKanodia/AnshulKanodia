@@ -1,6 +1,5 @@
 <div align="center">
-  <img src="./assets/Hand%20Wave.gif" width="40" alt="Wave" />
-  <h1>Hi, I'm Anshul Kanodia</h1>
+  <img src="./assets/header.svg" width="100%" alt="Header Banner" />
   
   <p align="center">
     <a href="https://anshulkanodia.me/">
@@ -8,12 +7,10 @@
     </a>
   </p>
 
-  <p>B.Tech in Computer Science and Engineering @ <strong>VIT Bhopal University</strong> (Class of 2028)</p>
-
   <p>
-    <a href="https://anshulkanodia.me/"><img src="https://img.shields.io/badge/Portfolio-anshulkanodia.me-3423A6?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
-    <a href="https://www.linkedin.com/in/anshulkanodia/"><img src="https://img.shields.io/badge/LinkedIn-Anshul_Kanodia-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-    <a href="mailto:anshulkanodia3560@gmail.com"><img src="https://img.shields.io/badge/Email-anshulkanodia3560@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+    <a href="https://anshulkanodia.me/"><img src="https://img.shields.io/badge/Portfolio-anshulkanodia.me-4F46E5?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
+    <a href="https://www.linkedin.com/in/anshulkanodia/"><img src="https://img.shields.io/badge/LinkedIn-Anshul_Kanodia-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+    <a href="mailto:anshulkanodia3560@gmail.com"><img src="https://img.shields.io/badge/Email-anshulkanodia3560@gmail.com-06B6D4?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
     <a href="https://codeforces.com/profile/anshulkanodia"><img src="https://img.shields.io/badge/Codeforces-anshulkanodia-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces" /></a>
   </p>
 </div>
@@ -22,7 +19,9 @@
 
 ## 📌 Overview & About Me
 
-I am a software engineer passionate about building high-availability backend microservices, real-time natural language processing (NLP) pipelines, intelligent developer tools, and responsive web applications.
+> [!NOTE]
+> **Active Focus & Engineering Mindset**  
+> Building high-availability backend microservices, real-time natural language processing (NLP) pipelines, intelligent developer tools, and responsive web applications.
 
 - 🔭 **Active Focus**: Multi-agent orchestration, high-concurrency backend architectures, distributed transaction ledgers, and explainable Machine Learning systems.
 - 🎓 **Education**: Pursuing B.Tech in CSE at **VIT Bhopal University** (2024–2028).
@@ -68,6 +67,10 @@ I am a software engineer passionate about building high-availability backend mic
 
 ## 📜 Verified Certifications
 
+> [!TIP]
+> **Validated Engineering Qualifications**  
+> Specialized certifications in Database Administration, Distributed Cloud Systems, Deep Learning, and Core Algorithms.
+
 - **MongoDB Associate Database Administrator** — FACE Prep (July 2026)
 - **Cloud Computing & Distributed Systems** — NPTEL / Swayam (May 2026)
 - **5-Day AI Agents Intensive Course** — Google & Kaggle (Dec 2025)
@@ -81,15 +84,21 @@ I am a software engineer passionate about building high-availability backend mic
 
 <div align="center">
   <a href="https://github.com/AnshulKanodia">
-    <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=AnshulKanodia&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&count_private=true&include_all_commits=true" alt="Anshul's GitHub Stats" width="48%" />
-    <img src="https://streak-stats.vercel.app/?user=AnshulKanodia&theme=tokyonight&hide_border=true&background=0d1117" alt="Anshul's GitHub Streak" width="48%" />
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=AnshulKanodia&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6366F1&icon_color=06B6D4&text_color=94a3b8&count_private=true&include_all_commits=true" alt="Anshul's GitHub Stats" width="48%" />
+    <img src="https://streak-stats.vercel.app/?user=AnshulKanodia&theme=tokyonight&hide_border=true&background=0d1117&ring=6366F1&fire=06B6D4&currStreakLabel=6366F1" alt="Anshul's GitHub Streak" width="48%" />
   </a>
 </div>
 
 <div align="center">
   <a href="https://github.com/AnshulKanodia">
-    <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AnshulKanodia&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&langs_count=8" alt="Top Languages" />
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AnshulKanodia&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6366F1&langs_count=8" alt="Top Languages" />
   </a>
+</div>
+
+---
+
+<div align="center">
+  <img src="./assets/footer.svg" width="100%" alt="Footer Banner" />
 </div>
 
 ---
