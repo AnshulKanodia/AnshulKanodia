@@ -15,20 +15,20 @@
   </p>
 </div>
 
----
+<img src="./assets/divider.svg" width="100%" alt="Neon Divider" />
 
 ## 📌 Overview & About Me
 
 > [!NOTE]
-> **Active Focus & Engineering Mindset**  
-> Building high-availability backend microservices, real-time natural language processing (NLP) pipelines, intelligent developer tools, and responsive web applications.
+> ### 🚀 Engineering Focus & Core Mindset
+> Building high-availability backend microservices, real-time natural language processing (NLP) pipelines, distributed ledgers, and intelligent developer tooling.
+>
+> - 🔭 **Active Focus**: Multi-agent orchestration, high-concurrency backend architectures, distributed transaction ledgers, and explainable Machine Learning systems.
+> - 🎓 **Education**: Pursuing B.Tech in CSE at **VIT Bhopal University** (2024–2028).
+> - ⚡ **Competitive Problem Solving**: Active competitive programmer on **[Codeforces](https://codeforces.com/profile/anshulkanodia)** with 70+ solutions in Java covering core DSA and constructive algorithms.
+> - 💬 **Collaborations**: Open to software engineering internships, backend architecture discussions, and open-source contributions.
 
-- 🔭 **Active Focus**: Multi-agent orchestration, high-concurrency backend architectures, distributed transaction ledgers, and explainable Machine Learning systems.
-- 🎓 **Education**: Pursuing B.Tech in CSE at **VIT Bhopal University** (2024–2028).
-- ⚡ **Competitive Problem Solving**: Active competitive programmer on **[Codeforces](https://codeforces.com/profile/anshulkanodia)** with 70+ solutions in Java covering core DSA and constructive algorithms.
-- 💬 **Collaborations**: Open to software engineering internships, backend architecture discussions, and open-source contributions.
-
----
+<img src="./assets/divider.svg" width="100%" alt="Neon Divider" />
 
 ## 🛠️ Tech Stack & Language Breakdown
 
@@ -45,7 +45,7 @@
 
 </div>
 
----
+<img src="./assets/divider.svg" width="100%" alt="Neon Divider" />
 
 ## ✨ Featured Projects
 
@@ -63,45 +63,42 @@
 | 8 | **[DeepScan Veritas AI](https://github.com/AnshulKanodia/DeepScan-Veritas-AI)** | AI-generated text and source code forensic detector featuring local perplexity scoring, burstiness metrics, and Monaco editor heatmap. | React (Vite), Monaco Editor, FastAPI, Python |
 | 9 | **[DevMind AI Engineering Copilot](https://github.com/AnshulKanodia/DevMind-AI-Engineering-Copilot)** | Intelligent developer copilot powered by LangGraph multi-agent orchestration, MongoDB Atlas Vector Search, and static code analysis. | Next.js 14, FastAPI, LangGraph, MongoDB Vector Search, Docker |
 
----
+<img src="./assets/divider.svg" width="100%" alt="Neon Divider" />
 
 ## 📜 Verified Certifications
 
 > [!TIP]
-> **Validated Engineering Qualifications**  
-> Specialized certifications in Database Administration, Distributed Cloud Systems, Deep Learning, and Core Algorithms.
+> ### 🏆 Validated Engineering Credentials
+> - **MongoDB Associate Database Administrator** — FACE Prep (July 2026)
+> - **Cloud Computing & Distributed Systems** — NPTEL / Swayam (May 2026)
+> - **5-Day AI Agents Intensive Course** — Google & Kaggle (Dec 2025)
+> - **Applied Machine Learning in Python** — University of Michigan / Coursera (Nov 2025)
+> - **Programming in Java** — NPTEL (Elite Certification)
+>
+> *All 13 verified credentials viewable in [Images/certificates](https://github.com/AnshulKanodia/Images/tree/main/certificates).*
 
-- **MongoDB Associate Database Administrator** — FACE Prep (July 2026)
-- **Cloud Computing & Distributed Systems** — NPTEL / Swayam (May 2026)
-- **5-Day AI Agents Intensive Course** — Google & Kaggle (Dec 2025)
-- **Applied Machine Learning in Python** — University of Michigan / Coursera (Nov 2025)
-- **Programming in Java** — NPTEL (Elite Certification)
-- *All 13 verified credentials viewable in [Images/certificates](https://github.com/AnshulKanodia/Images/tree/main/certificates).*
-
----
+<img src="./assets/divider.svg" width="100%" alt="Neon Divider" />
 
 ## 📊 GitHub Analytics
 
 <div align="center">
   <a href="https://github.com/AnshulKanodia">
-    <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=AnshulKanodia&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6366F1&icon_color=06B6D4&text_color=94a3b8&count_private=true&include_all_commits=true" alt="Anshul's GitHub Stats" width="48%" />
-    <img src="https://streak-stats.vercel.app/?user=AnshulKanodia&theme=tokyonight&hide_border=true&background=0d1117&ring=6366F1&fire=06B6D4&currStreakLabel=6366F1" alt="Anshul's GitHub Streak" width="48%" />
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=AnshulKanodia&show_icons=true&theme=tokyonight&bg_color=161b22&border_color=6366F1&title_color=6366F1&icon_color=06B6D4&text_color=94a3b8&count_private=true&include_all_commits=true" alt="Anshul's GitHub Stats" width="48%" />
+    <img src="https://streak-stats.vercel.app/?user=AnshulKanodia&theme=tokyonight&background=161b22&border=6366F1&ring=6366F1&fire=06B6D4&currStreakLabel=6366F1" alt="Anshul's GitHub Streak" width="48%" />
   </a>
 </div>
 
 <div align="center">
   <a href="https://github.com/AnshulKanodia">
-    <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AnshulKanodia&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6366F1&langs_count=8" alt="Top Languages" />
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AnshulKanodia&layout=compact&theme=tokyonight&bg_color=161b22&border_color=6366F1&title_color=6366F1&langs_count=8" alt="Top Languages" />
   </a>
 </div>
-
----
 
 <div align="center">
   <img src="./assets/footer.svg" width="100%" alt="Footer Banner" />
 </div>
 
----
+<img src="./assets/divider.svg" width="100%" alt="Neon Divider" />
 
 ## 📄 License
 
