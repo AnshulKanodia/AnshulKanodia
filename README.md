@@ -99,7 +99,3 @@
 </div>
 
 <img src="./assets/divider.svg" width="100%" alt="Neon Divider" />
-
-## 📄 License
-
-This repository is licensed under the [MIT License](LICENSE) — see the [LICENSE](LICENSE) file for details.
