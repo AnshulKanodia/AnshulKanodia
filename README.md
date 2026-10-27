@@ -69,13 +69,14 @@
 
 > [!TIP]
 > ### 🏆 Validated Engineering Credentials
+> - **Research Internship Completion Certificate** — Vicharanashala Lab for Education Design, IIT Ropar (Oct 2026)
 > - **MongoDB Associate Database Administrator** — FACE Prep (July 2026)
 > - **Cloud Computing & Distributed Systems** — NPTEL / Swayam (May 2026)
 > - **5-Day AI Agents Intensive Course** — Google & Kaggle (Dec 2025)
 > - **Applied Machine Learning in Python** — University of Michigan / Coursera (Nov 2025)
 > - **Programming in Java** — NPTEL (Elite Certification)
 >
-> *All 13 verified credentials viewable in [Images/certificates](https://github.com/AnshulKanodia/Images/tree/main/certificates).*
+> *All 14 verified credentials viewable in [Images/certificates](https://github.com/AnshulKanodia/Images/tree/main/certificates).*
 
 <img src="./assets/divider.svg" width="100%" alt="Neon Divider" />
 
